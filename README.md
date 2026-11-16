@@ -1,4 +1,4 @@
-# DPA / Cross-Border Data Transfer Review — GDPR & PIPL
+# DPA / Cross-Border Data Transfer Review
 
 Practical reference material and original analysis on reviewing **Data Processing Agreements (DPAs)** and cross-border personal-data-transfer mechanisms under **EU/UK GDPR** and **China's PIPL**.
 
