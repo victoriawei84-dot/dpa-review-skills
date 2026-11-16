@@ -1,5 +1,7 @@
 # US State Privacy DPA Requirements
 
+> _Section author: LegalQuants — adapted unmodified from [LegalQuants/lq-ai](https://github.com/LegalQuants/lq-ai) (Apache 2.0). See [NOTICE](../NOTICE)._
+
 This reference catalogs the convergent set of contractual requirements imposed by US state privacy laws on the relationship between businesses (controllers) and service providers / processors / contractors. The skill applies these requirements when `regulatory_regime: us_state_privacy` is specified.
 
 ## Threshold question: which laws actually apply?

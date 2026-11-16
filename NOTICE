@@ -6,15 +6,19 @@ in the LegalQuants/lq-ai project:
   Author:    LegalQuants
   License:   Apache License 2.0 (see LICENSE)
 
-The files SKILL.md, reference/, examples/, acceptance/, and test-plan.md
-are reproduced from that source, with this NOTICE and the original LICENSE
+The files SKILL.md, examples/, acceptance/, test-plan.md, and the following
+files in reference/ — gdpr_requirements.md, us_state_privacy_requirements.md,
+hipaa_baa_requirements.md, general_commercial_requirements.md — are
+reproduced from that source, with this NOTICE and the original LICENSE
 retained as required by the Apache 2.0 license. No changes have been made
-to their substantive content.
+to their substantive content beyond a one-line inline attribution note
+added after each file's title.
 
-The contents of original/ (pipl_requirements.md and
-gdpr-vs-pipl-cross-border-transfer.md) are NOT from LegalQuants/lq-ai and
-are not covered by this NOTICE — they are original research and writing
-produced for this repository. See their in-file source citations.
+reference/pipl_requirements.md and cross-border-transfer-comparison.md are
+NOT from LegalQuants/lq-ai and are not covered by this NOTICE — they are
+original research and writing by Victoria Wei, produced for this
+repository. See their in-file source citations and the authorship note in
+README.md.
 
 This is not legal advice and is not affiliated with or endorsed by
 LegalQuants beyond the terms of the Apache 2.0 license under which the

@@ -1,5 +1,7 @@
 # General Commercial DPA Requirements
 
+> _Section author: LegalQuants — adapted unmodified from [LegalQuants/lq-ai](https://github.com/LegalQuants/lq-ai) (Apache 2.0). See [NOTICE](../NOTICE)._
+
 This reference catalogs the commercially-standard terms expected in a Data Processing Agreement when no specific regulatory regime has been identified. The skill applies these requirements when `regulatory_regime: general_commercial` is specified — typically because the user has not yet identified the applicable regime, or because the DPA is intended to be regime-neutral and broadly compatible with multiple regimes.
 
 A general commercial DPA does not satisfy any specific regime's prescriptive requirements. It should be regarded as a baseline that may need supplementation when specific regimes apply. The skill notes this limitation in the posture paragraph.

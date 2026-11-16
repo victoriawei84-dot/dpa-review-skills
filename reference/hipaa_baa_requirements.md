@@ -1,5 +1,7 @@
 # HIPAA Business Associate Agreement Requirements
 
+> _Section author: LegalQuants — adapted unmodified from [LegalQuants/lq-ai](https://github.com/LegalQuants/lq-ai) (Apache 2.0). See [NOTICE](../NOTICE)._
+
 This reference catalogs the contractual terms required in a HIPAA Business Associate Agreement under 45 CFR §164.504(e), as amended by the HITECH Act and the HIPAA Omnibus Rule. The skill applies these requirements when `regulatory_regime: hipaa_baa` is specified.
 
 ## Threshold question: is this actually a BAA situation?

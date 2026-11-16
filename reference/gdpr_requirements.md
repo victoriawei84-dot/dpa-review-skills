@@ -1,5 +1,7 @@
 # GDPR DPA Requirements
 
+> _Section author: LegalQuants — adapted unmodified from [LegalQuants/lq-ai](https://github.com/LegalQuants/lq-ai) (Apache 2.0). See [NOTICE](../NOTICE)._
+
 This reference catalogs what a GDPR-compliant DPA must contain. The substantive requirements are in Article 28(3) of the GDPR (mirrored in Article 28(3) of the UK GDPR). Security requirements come from Article 32. International transfer mechanisms come from Articles 44–49 and the EDPB's Schrems II guidance.
 
 The skill applies these requirements when `regulatory_regime: gdpr` is specified. Findings cite specific GDPR articles for traceability.

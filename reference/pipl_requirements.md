@@ -1,6 +1,6 @@
 # China PIPL — Data Processing / Cross-Border Transfer Requirements
 
-**Status: original analysis, authored for this repository.** Not part of the upstream `lq-ai` skill (which explicitly scopes PIPL out of v1.0.0 — see its `SKILL.md`, "What this skill does not do"). Written in the same checklist format as the GDPR/US-state/HIPAA reference files in [`../reference/`](../reference) so it can be used the same way, but the content itself is new.
+> _Section author: Victoria Wei — original research and writing. Not part of the upstream `lq-ai` skill, which explicitly scopes PIPL out of its v1.0.0 release (see `SKILL.md`, "What this skill does not do"). Written in the same checklist format as the GDPR/US-state/HIPAA files in this folder so it reads as one continuous reference, but the content itself is new and independently sourced (see citations at the end of this file)._
 
 This covers two things that are easy to conflate and shouldn't be: (1) the **entrusted-processing agreement** required under PIPL Article 21 when a personal information handler (个人信息处理者, roughly GDPR's "controller") uses a third party to process data on its behalf, and (2) the **cross-border transfer mechanisms** required under PIPL Chapter III (Articles 38–43) when personal information leaves mainland China. A single real-world DPA for a China-facing deal usually needs to address both.
 
