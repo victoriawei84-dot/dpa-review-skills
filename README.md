@@ -41,6 +41,4 @@ This guide combines two things: a review methodology and a set of regime checkli
 Rather than keep these in separate folders, each file states its own authorship inline, right after its title, so it reads as one continuous guide:
 
 - `reference/gdpr_requirements.md`, `reference/us_state_privacy_requirements.md`, `reference/hipaa_baa_requirements.md`, `reference/general_commercial_requirements.md`, `SKILL.md`, `examples/`, `acceptance/`, `test-plan.md` — **written by LegalQuants**, reproduced unmodified under Apache 2.0. See [`NOTICE`](NOTICE).
-- `reference/pipl_requirements.md` and `cross-border-transfer-comparison.md` — **written by me (Victoria Wei)**, original research; sources cited at the end of each file.
-
-I did this specifically because the gap was real and named: LegalQuants' `SKILL.md` lists PIPL as explicitly out of scope for v1.0.0 ("Cover non-US/non-EU regimes ... community contributions welcomed"). The PIPL and comparative files here are my attempt at exactly that contribution.
+- `reference/pipl_requirements.md` and `cross-border-transfer-comparison.md` — **written by me **, original research; sources cited at the end of each file.
