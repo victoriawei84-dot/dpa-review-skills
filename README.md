@@ -1,4 +1,4 @@
-# DPA Review Guide — GDPR, US State Privacy, HIPAA & PIPL
+# DPA / Cross-Border Data Transfer Review
 
 A practical, checklist-driven guide to reviewing Data Processing Agreements (DPAs), DPA addenda, and HIPAA Business Associate Agreements against four regulatory regimes, plus a dedicated comparison of GDPR and China's PIPL for cross-border data flows — the regime combination that comes up constantly for any company operating in both markets.
 
