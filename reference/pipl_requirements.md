@@ -1,4 +1,4 @@
-# China PIPL — Data Processing / Cross-Border Transfer Requirements
+# China PIPL: Data Processing / Cross-Border Transfer Requirements
 
 
 This covers two things that are easy to conflate and shouldn't be: (1) the **entrusted-processing agreement** required under PIPL Article 21 when a personal information handler (个人信息处理者, roughly GDPR's "controller") uses a third party to process data on its behalf, and (2) the **cross-border transfer mechanisms** required under PIPL Chapter III (Articles 38–43) when personal information leaves mainland China. A single real-world DPA for a China-facing deal usually needs to address both.
