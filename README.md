@@ -13,6 +13,3 @@ These two files are my own research and writing, researched using the sources ci
 
 **[`reference/`](reference)**, **[`examples/`](examples)**, **[`acceptance/`](acceptance)**, **[`SKILL.md`](SKILL.md)**, and **[`test-plan.md`](test-plan.md)** are reproduced from the `dpa-checklist-review` skill in [LegalQuants/lq-ai](https://github.com/LegalQuants/lq-ai), an open-source (Apache 2.0) legal-AI project — kept here as background reference because the PIPL analysis above was written to sit alongside it (same checklist format, and the GDPR requirements file is what the comparison in `original/` is measured against). **I did not write this material** — see [`NOTICE`](NOTICE) for full attribution, required under the Apache 2.0 license. It covers GDPR Article 28, US state privacy law (CCPA/CPRA, VCDPA, etc.), and HIPAA BAAs, plus worked examples and test fixtures.
 
-## Why PIPL
-
-The upstream `lq-ai` project's `SKILL.md` explicitly scopes PIPL out of its v1.0.0 release ("Cover non-US/non-EU regimes (Canada PIPEDA, Brazil LGPD, China PIPL, etc.) ... community contributions welcomed"). This repository's `original/` content fills that specific, named gap, and does the comparative work of showing how it interacts with the GDPR material already in the project.
