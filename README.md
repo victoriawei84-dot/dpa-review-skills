@@ -18,8 +18,6 @@ A practical, checklist-driven guide to reviewing Data Processing Agreements (DPA
 
 ## How to use this
 
-This is written to be worked through against a real document, not just read end to end.
-
 1. **Figure out which regime(s) actually govern the document in front of you.** Don't guess from the document's title or governing-law clause — a "Data Processing Addendum" with Delaware governing law can still be GDPR-driven if it processes EU resident data, CCPA-driven if it processes California resident data, PIPL-driven if it processes data collected in mainland China, or several of these at once. Identify the data categories and data subjects first, then pick the regime file(s) in `reference/` that apply. If you're reviewing a dual EU/China relationship, also open `cross-border-transfer-comparison.md`.
 
 2. **Follow the three-pass method in [`SKILL.md`](SKILL.md)** against the actual document: orient (confirm it's really a DPA/BAA, identify the parties' roles), walk the relevant `reference/` checklist clause by clause (Present / Partial / Missing / Unclear / N/A for each required term), then compile an overall posture (Compliant / Compliant with minor gaps / Non-compliant / Materially non-compliant).
