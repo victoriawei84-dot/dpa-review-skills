@@ -6,11 +6,15 @@ in the LegalQuants/lq-ai project:
   Author:    LegalQuants
   License:   Apache License 2.0 (see LICENSE)
 
-The files here (SKILL.md, reference/, examples/, acceptance/, test-plan.md)
-are reproduced from that source for personal self-study purposes, with this
-NOTICE and the original LICENSE retained as required by the Apache 2.0
-license. No changes have been made to the substantive content; this repo
-adds only the top-level README.md as a study guide.
+The files SKILL.md, reference/, examples/, acceptance/, and test-plan.md
+are reproduced from that source, with this NOTICE and the original LICENSE
+retained as required by the Apache 2.0 license. No changes have been made
+to their substantive content.
+
+The contents of original/ (pipl_requirements.md and
+gdpr-vs-pipl-cross-border-transfer.md) are NOT from LegalQuants/lq-ai and
+are not covered by this NOTICE — they are original research and writing
+produced for this repository. See their in-file source citations.
 
 This is not legal advice and is not affiliated with or endorsed by
 LegalQuants beyond the terms of the Apache 2.0 license under which the
